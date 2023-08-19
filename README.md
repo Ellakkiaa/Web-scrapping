@@ -5,3 +5,5 @@ Welcome to the Web Scraping Project repository! This project aims to demonstrate
 ## Introduction
 
 Web scraping is the process of extracting data from websites programmatically. It can be used for various purposes such as data collection, research, and automation. This project serves as a learning resource for understanding the basics of web scraping, best practices, and common challenges.
+
+## Project Description
